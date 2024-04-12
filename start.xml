@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Start Page</title>
+  <link rel="stylesheet" type="text/css" href="xml_style.css">
+  <script src="xml_script.js" type="text/javascript"></script>
+</head>
+<body>
+  <h1>Welcome to Ubuntu Tour!</h1>
+  <p>This is the start page of the tour.</p>
+  <p>You can start exploring our Ubuntu system here.</p>
+</body>
+</html>
